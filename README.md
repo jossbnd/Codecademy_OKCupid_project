@@ -8,7 +8,7 @@ As it could have its importance to propose the best match for a user, we are goi
 
 It could be interesting for OKCupid to know whether or not we can predict the sign for a user that did not give the information to help him to find his/her soulmate.
 
-Objective is to get familiar with supervised machine learning model using Python (build, test and train).
+Objective is to get familiar with supervised machine learning models using Python (build, test and train).
 
 ## Technologies
 
